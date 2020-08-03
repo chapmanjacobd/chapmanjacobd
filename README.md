@@ -1,6 +1,6 @@
 ### Hello 🌏💨
 
-
+We travel together, passengers on a little space ship, dependent on its vulnerable reserves of air and soil; all committed for our safety to its security and peace; preserved from annihilation only by the care, the work, and, I will say, the love we give our fragile craft. We cannot maintain it half fortunate, half miserable, half confident, half despairing, half slave—to the ancient enemies of man—half free in a liberation of resources undreamed of until this day. No craft, no crew can travel safely with such vast contradictions. On their resolution depends the survival of us all. -Adlai Stevenson
 
 <!--
 **chapmanjacobd/chapmanjacobd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
