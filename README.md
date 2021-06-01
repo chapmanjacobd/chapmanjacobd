@@ -5,8 +5,8 @@ We cannot maintain it half fortunate, half miserable, half confident, half despa
 >_Adlai Stevenson_, 1965
 
 
-- 🦔 I’m currently working on perfecting my french accent
-- 🌱 I’m currently learning to use ogr2ogr more often instead of QGIS
+- 🦔 I’m working on perfecting my french accent
+- 🌱 I’m learning to use ogr2ogr more often instead of QGIS
 - 🤔 I’m looking for help with math
 - 💬 Ask me about batch processing (data engineering)
 - ⚡ Fun fact: Only 1% of the corn grown in the USA is sweet corn (the corn you eat). The other 99% of corn grown in the USA is field corn which is fairly inedible. This field corn is also what they use for non-edible corn products: ethanol, paint, cosmetics, etc.
