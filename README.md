@@ -5,7 +5,7 @@ We cannot maintain it half fortunate, half miserable, half confident, half despa
 >_Adlai Stevenson_, 1965
 
 
-- 🦔 I’m working on perfecting my french accent
+- 🦔 I like long walks on the beach
 - 🌱 I’m learning to use ogr2ogr more often instead of QGIS
 - 🤔 I’m looking for help with math
 - 💬 Ask me about batch processing (data engineering)
