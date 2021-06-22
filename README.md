@@ -4,6 +4,8 @@
 We cannot maintain it half fortunate, half miserable, half confident, half despairing, half slave—to the ancient enemies of man—half free in a liberation of resources undreamed of until this day. No craft, no crew can travel safely with such vast contradictions. On their resolution depends the survival of us all.
 >_Adlai Stevenson_, 1965
 
+> The recent innovation of the "computerized suit" that can generate a surrogate space around us [the internet], a portable virtual environment, points to future revelation of some "psychogeography" that will be based entirely on cybernetic energy, which will then supplement kinetic and potential energies.
+> https://web.archive.org/web/20161028114153/http://web.stanford.edu/dept/HPS/Virilio/Virilio_ArtoftheMotor2.html
 
 - 🦔 I like long walks on the beach
 - 🌱 I’m learning to use ogr2ogr more often instead of QGIS
