@@ -4,7 +4,7 @@
 We cannot maintain it half fortunate, half miserable, half confident, half despairing, half slave—to the ancient enemies of man—half free in a liberation of resources undreamed of until this day. No craft, no crew can travel safely with such vast contradictions. On their resolution depends the survival of us all.
 >_Adlai Stevenson_, 1965
 
-- 🦔 I like long walks on the beach
+- 🦔 I like long walks on the beach and running `strace` to quickly solve problems
 - 🌱 I’m learning to use ogr2ogr more often instead of QGIS
 - 💬 Ask me about batch processing (data engineering)
 - 🤔 I’m looking for help with math ∃∐∰3∷1‱∿
