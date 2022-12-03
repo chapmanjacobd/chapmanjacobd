@@ -11,4 +11,4 @@ We cannot maintain it half fortunate, half miserable, half confident, half despa
 - ⚡ Fun fact: Only 1% of the corn grown in the USA is sweet corn (the corn you eat). The other 99% of corn grown in the USA is field corn which is fairly inedible. This field corn is also what they use for non-edible corn products: ethanol, paint, cosmetics, etc.
 
 
-![Accessible version number of me](./my_version_number.svg) ![my uptime](./my_uptime.svg)
+![the possibility of gaining a useful degree of comprehension](./my_version_number.svg) ![in a situation that previously was too complex](./my_uptime.svg)
