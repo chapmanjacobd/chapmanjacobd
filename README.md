@@ -19,30 +19,3 @@ We cannot maintain it half fortunate, half miserable, half confident, half despa
 
 
 ![day day](./my_version_number.svg) ![up up](./my_uptime.svg)
-
-
-<details><summary>Test2</summary>
-
-### Test2
-
-</details>
-
-<details><summary>Test3</summary>
-### Test3
-</details>
-
-### Test4
-
-
-#### Test5
-
-##### Test6
-
-###### Test8
-
-####### Test9
-
-
-<details><summary>Test7</summary>
-<a name="test7">Test7</a>
-</details>
