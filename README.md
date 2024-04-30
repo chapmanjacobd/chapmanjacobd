@@ -13,7 +13,7 @@ We cannot maintain it half fortunate, half miserable, half confident, half despa
 
 - 🦔 I like long walks on the beach and running `strace` to quickly solve problems
 - 🌱 I’m learning to use ogr2ogr more often instead of QGIS
-- 💬 Ask me about batch processing (data engineering)
+- 💬 Ask me about batch processing
 - 🤔 I’m looking for help with math ∃∐∰3∷1‱∿
 - ⚡ Fun fact: Only 1% of the corn grown in the USA is sweet corn (the corn you eat). The other 99% of corn grown in the USA is field corn which is fairly inedible. This field corn is also what they use for non-edible corn products: ethanol, paint, cosmetics, etc.
 
